@@ -1,0 +1,30 @@
+{
+    "data" : {
+      "UPDATETIME" : "Wed Oct 26 21:56:00 CST 2022",
+      "park" : [ {
+        "id" : "001",
+        "availablecar" : 851,
+        "availablemotor" : 859,
+        "availablebus" : -9
+      }, {
+        "id" : "002",
+        "availablecar" : 321,
+        "availablemotor" : -9,
+        "availablebus" : -9
+      }, {
+        "id" : "003",
+        "availablecar" : 54,
+        "availablemotor" : 118,
+        "availablebus" : 0,
+        "ChargeStation" : {
+          "scoketStatusList" : [ {
+            "spot_abrv" : "176",
+            "spot_status" : "待機中"
+          }, {
+            "spot_abrv" : "177",
+            "spot_status" : "待機中"
+          } ]
+        }
+      }]
+    }
+}
